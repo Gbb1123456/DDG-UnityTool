@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cwtyxtoX3JCzuX5F6PF/lxYusv7UgQxIkweXGWw1/GIPO6gM+tTBulWp4EyYPt1VVCKcQYrZsxG1Y+Ehf2aaYg==",
+  "success": true,
+  "projectFilePath": "E:\\UnityTools\\GDLog\\GDLog\\GDLog\\GDLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vssunity\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vssunity\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

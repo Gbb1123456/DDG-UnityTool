@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDLog", "GDLog\GDLog.csproj", "{B931BBD1-9FC6-48E2-B27E-028F899E9EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerLogTest", "ServerLogTest\ServerLogTest.csproj", "{50285714-FD23-4B85-93F2-B8AA960B2E25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B931BBD1-9FC6-48E2-B27E-028F899E9EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B931BBD1-9FC6-48E2-B27E-028F899E9EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B931BBD1-9FC6-48E2-B27E-028F899E9EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B931BBD1-9FC6-48E2-B27E-028F899E9EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50285714-FD23-4B85-93F2-B8AA960B2E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50285714-FD23-4B85-93F2-B8AA960B2E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50285714-FD23-4B85-93F2-B8AA960B2E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50285714-FD23-4B85-93F2-B8AA960B2E25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26179754-B916-43A5-AB0D-A6CEC06C4E9E}
+	EndGlobalSection
+EndGlobal

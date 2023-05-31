@@ -1,0 +1,17 @@
+E:\UnityTools\GDLog\GDLog\ServerLogTest\bin\Debug\netcoreapp3.1\ServerLogTest.exe
+E:\UnityTools\GDLog\GDLog\ServerLogTest\bin\Debug\netcoreapp3.1\ServerLogTest.deps.json
+E:\UnityTools\GDLog\GDLog\ServerLogTest\bin\Debug\netcoreapp3.1\ServerLogTest.runtimeconfig.json
+E:\UnityTools\GDLog\GDLog\ServerLogTest\bin\Debug\netcoreapp3.1\ServerLogTest.runtimeconfig.dev.json
+E:\UnityTools\GDLog\GDLog\ServerLogTest\bin\Debug\netcoreapp3.1\ServerLogTest.dll
+E:\UnityTools\GDLog\GDLog\ServerLogTest\bin\Debug\netcoreapp3.1\ServerLogTest.pdb
+E:\UnityTools\GDLog\GDLog\ServerLogTest\bin\Debug\netcoreapp3.1\GDLog.dll
+E:\UnityTools\GDLog\GDLog\ServerLogTest\bin\Debug\netcoreapp3.1\GDLog.pdb
+E:\UnityTools\GDLog\GDLog\ServerLogTest\obj\Debug\netcoreapp3.1\ServerLogTest.csproj.AssemblyReference.cache
+E:\UnityTools\GDLog\GDLog\ServerLogTest\obj\Debug\netcoreapp3.1\ServerLogTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\UnityTools\GDLog\GDLog\ServerLogTest\obj\Debug\netcoreapp3.1\ServerLogTest.AssemblyInfoInputs.cache
+E:\UnityTools\GDLog\GDLog\ServerLogTest\obj\Debug\netcoreapp3.1\ServerLogTest.AssemblyInfo.cs
+E:\UnityTools\GDLog\GDLog\ServerLogTest\obj\Debug\netcoreapp3.1\ServerLogTest.csproj.CoreCompileInputs.cache
+E:\UnityTools\GDLog\GDLog\ServerLogTest\obj\Debug\netcoreapp3.1\ServerLogTest.csproj.CopyComplete
+E:\UnityTools\GDLog\GDLog\ServerLogTest\obj\Debug\netcoreapp3.1\ServerLogTest.dll
+E:\UnityTools\GDLog\GDLog\ServerLogTest\obj\Debug\netcoreapp3.1\ServerLogTest.pdb
+E:\UnityTools\GDLog\GDLog\ServerLogTest\obj\Debug\netcoreapp3.1\ServerLogTest.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+E:\UnityTools\GDLog\GDLog\GDLog\bin\Debug\netstandard2.0\GDLog.deps.json
+E:\UnityTools\GDLog\GDLog\GDLog\bin\Debug\netstandard2.0\GDLog.dll
+E:\UnityTools\GDLog\GDLog\GDLog\bin\Debug\netstandard2.0\GDLog.pdb
+E:\UnityTools\GDLog\GDLog\GDLog\obj\Debug\netstandard2.0\GDLog.csproj.AssemblyReference.cache
+E:\UnityTools\GDLog\GDLog\GDLog\obj\Debug\netstandard2.0\GDLog.GeneratedMSBuildEditorConfig.editorconfig
+E:\UnityTools\GDLog\GDLog\GDLog\obj\Debug\netstandard2.0\GDLog.AssemblyInfoInputs.cache
+E:\UnityTools\GDLog\GDLog\GDLog\obj\Debug\netstandard2.0\GDLog.AssemblyInfo.cs
+E:\UnityTools\GDLog\GDLog\GDLog\obj\Debug\netstandard2.0\GDLog.csproj.CoreCompileInputs.cache
+E:\UnityTools\GDLog\GDLog\GDLog\obj\Debug\netstandard2.0\GDLog.dll
+E:\UnityTools\GDLog\GDLog\GDLog\obj\Debug\netstandard2.0\GDLog.pdb
